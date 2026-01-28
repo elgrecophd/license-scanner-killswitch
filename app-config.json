@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "message": "Service is temporarily disabled. Please contact support."
+  "message": "Service is temporarily disabled. Please contact support.",
     "_comment": "Set enabled to false to disable the app, true to let app run normally"
 }
